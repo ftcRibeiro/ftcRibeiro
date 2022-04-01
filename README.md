@@ -1,17 +1,15 @@
 ## E aí?! Sou Felipe Ribeiro 
 
 ### Sou dev fullstack, mas prefiro backend :nerd_face:
-- Atualmente estou aprendendo Golang
-- Fiquei muito tempo fora do github :disappointed:
-  
-<br />
+- Atualmente trabalho com Golang
 
 ### Sou entusiasta e estudioso de culturas organizacionais e agilidade. 
 
 ### :notes: Sou apaixonado por música e músico nas horas vaga :musical_note:
 
 ### Aos dos signos : :taurus:
-### Pode me achar no [linkedin](https://www.linkedin.com/in/felipe-ribeiro-610635a4/)
+ <a href="https://www.linkedin.com/in/felipe-ribeiro-610635a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/felipe.tadeu08/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <br />
 
 ---
@@ -31,5 +29,6 @@
 <br />
 
 <br />
-<img align="left" alt="gh stats" src="https://github-readme-stats.vercel.app/api?username=ftcRibeiro&show_icons=true&hide_border=true&count_private=true&theme=github_dark"/>
-
+<div>
+  <img align="left" alt="gh stats" src="https://github-readme-stats.vercel.app/api?username=ftcRibeiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+</div>
