@@ -1,6 +1,6 @@
 ## E aí?! Sou Felipe Ribeiro 
 
-### Sou dev fullstack, mas prefiro backend :nerd_face:
+### Sou dev backend :nerd_face:
 - Atualmente trabalho com Golang
 
 ### Sou entusiasta e estudioso de culturas organizacionais e agilidade. 
