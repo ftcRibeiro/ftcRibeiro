@@ -5,7 +5,7 @@
 
 ### Sou entusiasta e estudioso de culturas organizacionais e agilidade. 
 
-### :notes: Sou apaixonado por música e músico nas horas vaga :musical_note:
+### :notes: Sou apaixonado por música e músico nas horas vagas :musical_note:
 
 ### Aos dos signos : :taurus:
  <a href="https://www.linkedin.com/in/felipe-ribeiro-610635a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
